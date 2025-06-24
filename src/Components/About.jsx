@@ -22,7 +22,7 @@ export default function About() {
                         <li>🎯 Focused on clean code, performance, and accessibility</li>
                     </ul>
 
-                    <a href="../public/updatedResume.pdf" className="btn" target="_blank" rel="noopener noreferrer" download ="Abhilash_Resume.pdf">
+                    <a href="/updatedResume.pdf" className="btn" target="_blank" rel="noopener noreferrer" download ="Abhilash_Resume.pdf">
                         📄 Download Resume
                     </a>
                 </div>
