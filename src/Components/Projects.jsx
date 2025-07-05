@@ -25,6 +25,14 @@ const projectData = [
     link: "https://getgear.vercel.app/",
     code: "https://github.com/yourusername/gear-strength-calc"
   },
+  {
+    title: "Weather Forecast App",
+    description:
+      "A responsive React application that fetches real-time weather data from the OpenWeatherMap API. Users can search for current weather conditions by city name, with error handling and smooth UI design.",
+    tech: ["React", "Vite", "MUI", "OpenWeatherMap API", "CSS"],
+    link: "https://weatherapp-ten-silk.vercel.app/", 
+    code: "https://github.com/AbhilashMundepi/weatherapp" 
+  }
 ];
 
 export default function Projects() {
