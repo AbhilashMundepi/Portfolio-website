@@ -39,7 +39,7 @@ const projectData = [
     "An AI-powered RAG system that translates Hindi and English into Garhwali. Built using LangChain, Pinecone, and Gemini API for context-aware translations, with a React frontend for real-time interaction. Aimed at preserving regional language and improving accessibility.",
   tech: ["React", "JavaScript", "LangChain", "Pinecone", "Gemini API", "Vercel"],
   link: "https://garhwali-ai-agent-frontend.vercel.app/", 
-  code: "https://github.com/AbhilashMundepi/garhwali-ai-agent" 
+  code: "https://github.com/AbhilashMundepi/Garhwali-AI-Agent-frontend" 
 },
 {
   title: "MechAI – AI Agent for Mechanical Engineers",
@@ -47,7 +47,7 @@ const projectData = [
     "A domain-specific AI assistant designed for mechanical engineers. Uses RAG with LangChain, Pinecone, and Gemini API to deliver accurate, subject-focused answers and project guidance. Features a React-based frontend and deployed on Vercel for seamless web access.",
   tech: ["React", "JavaScript", "LangChain", "Pinecone", "Gemini API", "Vercel"],
   link: "https://mech-ai-frontend.vercel.app/", 
-  code: "https://github.com/AbhilashMundepi/mech-ai-agent" 
+  code: "https://github.com/AbhilashMundepi/MechAI" 
 }
 
 ];
