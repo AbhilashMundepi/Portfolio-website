@@ -14,7 +14,7 @@ export default function Hero() {
             <div className="hero-content">
                 <img src="/Abhilash.jpg" alt="Profile" className="hero-image" />
                 <h1> Hi, I,m <span className="highlight">Abhilash</span></h1>
-                <p className="subtitle">Mechanical Engineer | MERN Stack Devloper | AI/ML Engineer</p>
+                <p className="subtitle"> MERN Stack Devloper | AI/ML  Enthusiast</p>
                 <a href="#projects" className="cta-button" onClick={toggleMenu} >View My Projects</a>
             </div>
 
