@@ -48,6 +48,14 @@ const projectData = [
   tech: ["React", "JavaScript", "LangChain", "Pinecone", "Gemini API", "Vercel"],
   link: "https://mech-ai-frontend.vercel.app/", 
   code: "https://github.com/AbhilashMundepi/MechAI" 
+},
+{
+  title: "Stock Bazaar ",
+  description:
+    "A full-stack stock trading platform inspired by Zerodha, featuring secure JWT authentication, real-time market data, watchlists, portfolio tracking, and a seamless buy/sell order flow. Built with a clean React + Vite frontend and a scalable Node.js + MongoDB backend.",
+  tech: ["React", "Vite", "JavaScript", "Node.js", "Express", "MongoDB", "JWT"],
+  link: "https://stock-bazaar-frontend.vercel.app/", 
+  code: "https://github.com/AbhilashMundepi/stock-Bazaar"
 }
 
 ];
