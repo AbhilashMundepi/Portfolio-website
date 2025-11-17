@@ -6,7 +6,7 @@ const projectData = [
     description:
       "A full-stack MERN application that allows users to book and host rental properties. Features user authentication, booking management, search filters, and image upload.",
     tech: ["MongoDB", "Express", "JavaScript", "Node.js", "Vanila CSS"],
-    link: "https://wandurlust-demo.netlify.app",
+    link: "https://travelwebsite-1-60b7.onrender.com/listings",
     code: "https://github.com/AbhilashMundepi/travelwebsite"
   },
   {
